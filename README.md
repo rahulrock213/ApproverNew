@@ -26,7 +26,7 @@ The easy way to host this bot, deploy to Heroku.
 
 
 <p align="center">
-<a href="http://heroku.com/deploy?template=https://github.com/Cyber-yadu07/Kya-Indo-Ramdi-Hai"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="http://heroku.com/deploy?template=https://github.com/Reeshuxd/ApproverNew"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
 
