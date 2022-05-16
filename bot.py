@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# < (c) @TheZeusxD , https://t.me/TheZeusxD >
 # invitesApproval, 2021.
 
 # Paid source, re-distributing without contacting the code owner is NOT allowed.
@@ -32,7 +31,6 @@ except Exception as e:
     exit(1)
 
 OWNERS = [int(i) for i in owonerz.split(" ")]
-OWNERS.append(719195224) if 719195224 not in OWNERS else None
 
 # connecting the user client
 try:
@@ -88,8 +86,8 @@ async def starters(event):
         )
     else:
         await event.reply(
-            "Invites approval bot.\nAccept all group/channel join invites in one go!.",
-            buttons=Button.url("Buy one now!", url="https://t.me/TheZeusxD"),
+            "**Hello, I am a subs Approver Bot, I can accept/decline pending requests with just one command!**",
+            buttons=Button.url("GetYourOwn", url="https://t.me/reeshuxd"),
         )
 
 
