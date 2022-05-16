@@ -1,0 +1,3 @@
+git+https://github.com/Namokarsingh09/Telethon
+python-decouple
+
